@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "class/计组/第四章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "第四章"
             }
           }
         ],
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "644b881bacecee34",
@@ -205,6 +206,7 @@
   },
   "active": "5e0b09d0ddd10ff0",
   "lastOpenFiles": [
+    "Pasted image 20261107153019.png",
     "class/计组/第四章.md",
     "README.md",
     "README",
